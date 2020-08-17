@@ -4,7 +4,7 @@ Standard CKEditor 4
 Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights and credits to:
 http://ckeditor.com - See LICENSE.md for license information.
 
-Standard CKEditor 4 is a free customized ckeditor that consists of the most standard features and characteristics. Kelvin Thiongo Adjusted the ckeditor by adding some features such as Keystrokes including CTRL S for saving, ALT 1 -> H1, ALT 2 -> H2 ... You literally rearly need to add anything my fren...
+Standard CKEditor 4 is a free customized ckeditor that consists of the most standard features and characteristics. Kelvin Thiongo Adjusted the ckeditor by adding some features such as Keystrokes including CTRL S for saving, ALT 1 -> H1, ALT 2 -> H2 ... You literally don't need to add anything my fren...
 
 # Documentation
 
