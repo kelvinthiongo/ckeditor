@@ -41,7 +41,7 @@ Installing Standard CKEditor 4 is an easy task. Just follow these simple steps:
  2. **Extract** (decompress) the downloaded file into the root of your website(public directory).
  3. **Rename** the resulting folder from ckeditor-master to ckeditor.
  4. **Integrate** ckeditor by including the following sript tag:
-    <script src="<yourwebsite>/ckeditor/ckeditor.js"></script>. Replace 'yourwebsite' with your website.
+    <script src="<yourwebsite>/ckeditor/ckeditor.js"></script>.
  5. **Associate** ckeditor to a textarea by assigning class 'ckeditor' to the textarea and you are done my fren!
 
 **Note:** You can always change the configuration of the ckeditor in the /ckeditor/config.js.
